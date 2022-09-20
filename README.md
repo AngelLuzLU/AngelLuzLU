@@ -1,6 +1,6 @@
 # Hello my friend, stay awhile and listen  <img src="./img/hello.png" alt="drawing" height="50"/>
 
-*Software Development Engineering Student **@CETI Colomos*** <img src="./img/ceti.png" alt="drawing" height="20"/>
+*Software Development Engineering Student **@CETI Colomos*** <img src="./img/ceti.png" alt="drawing" height="35"/>
 
 *Cloud Certificate **AZ-900*** <img src="./img/Azure.png" alt="drawing" height="20"/>
 
