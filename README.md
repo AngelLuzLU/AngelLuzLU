@@ -2,6 +2,6 @@
 
 *Software Development Engineering Student **@CETI Colomos*** <img src="./img/ceti.png" alt="drawing" height="35"/>
 
-*Cloud Certificate **AZ-900***, **AZ-500*** <img src="./img/Azure.png" alt="drawing" height="20"/>
+*Cloud Certificate **AZ-900***, **AZ-500** <img src="./img/Azure.png" alt="drawing" height="20"/>
 
 *Fullstack Web Developer **[#LaunchX](https://github.com/LaunchX-InnovaccionVirtual)*** <img src="./img/launchx.png" alt="drawing" height="20"/>
